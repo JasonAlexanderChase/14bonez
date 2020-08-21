@@ -1306,7 +1306,7 @@ a {
   }
 }
 .cid-s1YM9uDjlF .card-wrapper {
-  background: #000000;
+  background: #403434;
   padding: 3rem;
 }
 .cid-s1YM9uDjlF .card-wrapper:hover {
@@ -1349,13 +1349,13 @@ a {
   transform: translateY(-10px);
 }
 .cid-s1YM9uDjlF .card:hover .link-icon {
-  color: #465052;
+  color: #000000;
   -webkit-background-clip: transparent;
   -webkit-text-fill-color: unset;
 }
 .cid-s1YM9uDjlF .card:hover .card-title,
 .cid-s1YM9uDjlF .card:hover .mbr-subtitle {
-  color: #465052 !important;
+  color: #000000 !important;
 }
 @media (min-width: 1600px) {
   .cid-s1YM9uDjlF .card {
@@ -1490,7 +1490,7 @@ a {
 }
 .cid-s1YMbJUPDd .mbr-text,
 .cid-s1YMbJUPDd .mbr-section-btn {
-  color: #999999;
+  color: #f3f3f3;
 }
 .cid-s1YMbJUPDd .modalWindow {
   position: fixed;
