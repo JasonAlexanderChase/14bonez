@@ -1181,7 +1181,7 @@ a {
   object-fit: cover;
 }
 .cid-s1YM3FtOOn .card-wrapper {
-  background: #191919;
+  background: #000000;
   padding: 2rem;
 }
 @media (max-width: 767px) {
@@ -1243,7 +1243,7 @@ a {
 .cid-s1YMw7pFhM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #111111;
+  background-color: #000000;
 }
 .cid-s1YMw7pFhM h3 {
   text-align: center;
@@ -1490,7 +1490,7 @@ a {
 }
 .cid-s1YMbJUPDd .mbr-text,
 .cid-s1YMbJUPDd .mbr-section-btn {
-  color: #f3f3f3;
+  color: #ffffff;
 }
 .cid-s1YMbJUPDd .modalWindow {
   position: fixed;
