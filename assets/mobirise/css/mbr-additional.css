@@ -1152,8 +1152,6 @@ a {
   transition: all 0.3s;
 }
 .cid-s1YLYYtmhw {
-  padding-top: 105px;
-  padding-bottom: 0px;
   background-color: #040402;
 }
 .cid-s1YLYYtmhw H1 {
@@ -1292,9 +1290,9 @@ a {
   }
 }
 .cid-s1YM9uDjlF {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #040402;
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/jasdon.starrs.svg");
 }
 .cid-s1YM9uDjlF img {
   width: 160px;
@@ -1308,7 +1306,7 @@ a {
   }
 }
 .cid-s1YM9uDjlF .card-wrapper {
-  background: #191919;
+  background: #000000;
   padding: 3rem;
 }
 .cid-s1YM9uDjlF .card-wrapper:hover {
@@ -1338,10 +1336,10 @@ a {
   color: #ffffff;
 }
 .cid-s1YM9uDjlF .main-title {
-  color: #ffffff;
+  color: #999999;
 }
 .cid-s1YM9uDjlF .main-subtitle {
-  color: #999999;
+  color: #ffcc00;
 }
 .cid-s1YM9uDjlF .card {
   margin-bottom: 2rem;
@@ -1351,13 +1349,13 @@ a {
   transform: translateY(-10px);
 }
 .cid-s1YM9uDjlF .card:hover .link-icon {
-  color: #ffffff;
+  color: #465052;
   -webkit-background-clip: transparent;
   -webkit-text-fill-color: unset;
 }
 .cid-s1YM9uDjlF .card:hover .card-title,
 .cid-s1YM9uDjlF .card:hover .mbr-subtitle {
-  color: #ffffff !important;
+  color: #465052 !important;
 }
 @media (min-width: 1600px) {
   .cid-s1YM9uDjlF .card {
